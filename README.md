@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Ashwini%20Dhamankar&fontSize=42&fontColor=E0AAFF&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Front-End%20%2F%20Full-Stack%20%7C%20AI-Assisted%20Engineering&descAlignY=55&descSize=18" width="100%"/>
 
+<a href="ash-dhamankar-portfolio.netlify.app"></a>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Senior+Front-End+%2F+Full-Stack+Engineer;React+18%2F19+%7C+TypeScript+%7C+Java+%2F+Spring+Boot;Micro-Frontend+Architecture+%40+JPMorgan+Chase;AI-Assisted+Engineering+%7C+GitHub+Copilot+%7C+Windsurf;Building+Enterprise-Grade+Wealth+Management+Platforms" alt="Typing SVG" />
 </a>
