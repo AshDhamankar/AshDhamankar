@@ -48,7 +48,7 @@ domain: "Wealth Management · Private Banking · Financial Services"
 currently: "Sr. Associate, JPMorgan Chase — Advisor Connect CRM360 / 23 Wall Street"
 ```
 
-I'm a senior front-end-specialized full-stack engineer who has spent over a decade building secure, high-performance enterprise platforms inside top-tier financial institutions — JPMorgan Chase, BNY Mellon, Credit Suisse, Bank of America, and Wells Fargo. My core strength is architecting **Single Page Applications and Micro-Frontends** that scale across cross-functional teams, backed by disciplined state management, rigorous testing, and accessibility-first design.
+I'm a senior front-end-specialized Software engineer who has spent over a decade building secure, high-performance enterprise platforms inside top-tier financial institutions — JPMorgan Chase, BNY Mellon, Credit Suisse, Bank of America, and Wells Fargo. My core strength is architecting **Single Page Applications and Micro-Frontends** that scale across cross-functional teams, backed by disciplined state management, rigorous testing, and accessibility-first design.
 
 I pair deep front-end expertise with backend fluency in **Java, Spring Boot, and GraphQL**, and I actively integrate **AI-assisted development workflows** into day-to-day engineering — using tools like GitHub Copilot, Cline, and Windsurf to accelerate delivery while validating every output through peer review and automated testing.
 
@@ -56,8 +56,8 @@ I pair deep front-end expertise with backend fluency in **Java, Spring Boot, and
 
 ### 🎯 Open To
 
-![Senior Engineer](https://img.shields.io/badge/Senior%20Frontend%20Engineer-8A2BE2?style=flat-square)
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Engineer-6A5ACD?style=flat-square)
+![Front-End Developer](https://img.shields.io/badge/Senior%20Frontend%20Engineer-8A2BE2?style=flat-square)
+![Software Engineer](https://img.shields.io/badge/Full%20Stack%20Engineer-6A5ACD?style=flat-square)
 ![Tech Lead](https://img.shields.io/badge/Lead%20Engineer-7B2FF7?style=flat-square)
 ![Remote](https://img.shields.io/badge/Remote%20%2F%20NYC%20%2F%20NJ%20%2F%20LA-4B0082?style=flat-square)
 
