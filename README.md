@@ -48,7 +48,7 @@ domain: "Wealth Management · Private Banking · Financial Services"
 currently: "Sr. Associate, JPMorgan Chase — Advisor Connect CRM360 / 23 Wall Street"
 ```
 
-I'm a senior front-end-specialized Software engineer who has spent over a decade building secure, high-performance enterprise platforms inside top-tier financial institutions — JPMorgan Chase, BNY Mellon, Credit Suisse, Bank of America, and Wells Fargo. My core strength is architecting **Single Page Applications and Micro-Frontends** that scale across cross-functional teams, backed by disciplined state management, rigorous testing, and accessibility-first design.
+I'm a senior front-end-specialized Software engineer who has spent over a decade building secure, high-performance enterprise platforms inside top-tier financial institutions -JPMorgan Chase, BNY Mellon, Credit Suisse, Bank of America, and Wells Fargo. My core strength is architecting **Single Page Applications and Micro-Frontends** that scale across cross-functional teams, backed by disciplined state management, rigorous testing, and accessibility-first design.
 
 I pair deep front-end expertise with backend fluency in **Java, Spring Boot, and GraphQL**, and I actively integrate **AI-assisted development workflows** into day-to-day engineering — using tools like GitHub Copilot, Cline, and Windsurf to accelerate delivery while validating every output through peer review and automated testing.
 
