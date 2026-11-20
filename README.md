@@ -10,6 +10,7 @@
 
 ![MBA](https://img.shields.io/badge/MBA-Business%20Administration-6A0DAD?style=flat-square&logo=graduation-cap&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-New%20Jersey%2C%20USA-4B0082?style=flat-square&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Location-New%20York%2C%20USA-4B0082?style=flat-square&logo=googlemaps&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Los%20Angeles%2C%20USA-4B0082?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
