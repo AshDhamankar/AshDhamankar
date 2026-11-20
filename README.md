@@ -69,21 +69,23 @@ I pair deep front-end expertise with backend fluency in **Java, Spring Boot, and
 
 <div align="center">
 
-**Languages**
+**Front End:** React 18/19 · Next.js · Angular 12–18 · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · SCSS · Tailwind · shadcn/ui · Bootstrap · Material UI · Zustand · Redux · NgRx · TanStack Query · Zod · Ag-Grid · D3.js · Vite · Webpack Module Federation · Adobe AEM · React Native
 
-![Skills](https://skillicons.dev/icons?i=js,ts,java,python,kotlin,html,css&theme=dark)
+**Backend:** Java 8–21 · Spring Boot · Spring Cloud Config · Python · Node.js · REST · GraphQL · SOAP · Apache Kafka · RabbitMQ · Microservices
 
-**Frontend**
+**Databases:** PostgreSQL · Oracle · SQL Server · MySQL · Amazon DynamoDB · Snowflake · Databricks
 
-![Skills](https://skillicons.dev/icons?i=react,angular,vite,redux,tailwind,bootstrap,sass,jquery&theme=dark)
+**Cloud / DevOps:** AWS (ECS, EKS, CodeBuild, CodePipeline, Amplify, IAM) · Azure · Cloud Foundry · Docker · Kubernetes · Terraform · Jenkins · Harness · Bitbucket · GitHub
 
-**Backend & Databases**
+**Testing:** Jest · React Testing Library · Cypress · Playwright · JUnit · Cucumber · Jasmine · Karma · TDD
 
-![Skills](https://skillicons.dev/icons?i=spring,nodejs,graphql,mysql,postgres&theme=dark)
+**AI Tools:** GitHub Copilot · Claude Code · Cline · Windsurf · DevGPT · MCP · Prompt Engineering · Agentic / LLM workflow integration
 
-**Cloud, DevOps & Tooling**
+**Observability:** Splunk · ELK (Elasticsearch, Kibana) · Grafana · CloudWatch
 
-![Skills](https://skillicons.dev/icons?i=aws,docker,terraform,jenkins,git,github,bitbucket,vscode,idea,figma,postman&theme=dark)
+**Accessibility & UX:** WCAG · Section 508 · ADA · Axe DevTools · NVDA · JAWS · VoiceOver · Figma · Lucidchart · Sketch · Balsamiq
+
+**Practices:** Agile · JIRA · Confluence · Code Reviews · Mentoring · Technical Design Documentation
 
 </div>
 
