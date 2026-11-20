@@ -72,6 +72,7 @@ I pair deep front-end expertise with backend fluency in **Java, Spring Boot, and
 <div align="center">
 
 **AWS**
+
 ![AWS Generative AI Developer](https://img.shields.io/badge/AWS-Generative%20AI%20Developer%20Professional-6A5ACD?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-8A2BE2?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI%20Practitioner-6A5ACD?style=for-the-badge&logo=amazonaws&logoColor=white)
